@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/react_movie_search_app/static/css/main.6289c761.chunk.css",
-    "main.js": "/react_movie_search_app/static/js/main.41b50021.chunk.js",
-    "main.js.map": "/react_movie_search_app/static/js/main.41b50021.chunk.js.map",
-    "runtime-main.js": "/react_movie_search_app/static/js/runtime-main.110e9ea8.js",
-    "runtime-main.js.map": "/react_movie_search_app/static/js/runtime-main.110e9ea8.js.map",
-    "static/js/2.6221f05a.chunk.js": "/react_movie_search_app/static/js/2.6221f05a.chunk.js",
-    "static/js/2.6221f05a.chunk.js.map": "/react_movie_search_app/static/js/2.6221f05a.chunk.js.map",
-    "static/js/3.41976a9d.chunk.js": "/react_movie_search_app/static/js/3.41976a9d.chunk.js",
-    "static/js/3.41976a9d.chunk.js.map": "/react_movie_search_app/static/js/3.41976a9d.chunk.js.map",
+    "main.js": "/react_movie_search_app/static/js/main.f7888d67.chunk.js",
+    "main.js.map": "/react_movie_search_app/static/js/main.f7888d67.chunk.js.map",
+    "runtime-main.js": "/react_movie_search_app/static/js/runtime-main.c7a88808.js",
+    "runtime-main.js.map": "/react_movie_search_app/static/js/runtime-main.c7a88808.js.map",
+    "static/js/2.b708d092.chunk.js": "/react_movie_search_app/static/js/2.b708d092.chunk.js",
+    "static/js/2.b708d092.chunk.js.map": "/react_movie_search_app/static/js/2.b708d092.chunk.js.map",
     "index.html": "/react_movie_search_app/index.html",
     "static/css/main.6289c761.chunk.css.map": "/react_movie_search_app/static/css/main.6289c761.chunk.css.map",
-    "static/js/2.6221f05a.chunk.js.LICENSE.txt": "/react_movie_search_app/static/js/2.6221f05a.chunk.js.LICENSE.txt"
+    "static/js/2.b708d092.chunk.js.LICENSE.txt": "/react_movie_search_app/static/js/2.b708d092.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.110e9ea8.js",
-    "static/js/2.6221f05a.chunk.js",
+    "static/js/runtime-main.c7a88808.js",
+    "static/js/2.b708d092.chunk.js",
     "static/css/main.6289c761.chunk.css",
-    "static/js/main.41b50021.chunk.js"
+    "static/js/main.f7888d67.chunk.js"
   ]
 }
